@@ -4,3 +4,4 @@ non mo borres
 
 estou modificando este archivo "b.txt"
 Curripitasooooooooo
+haciendo merge
